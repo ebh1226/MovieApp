@@ -161,10 +161,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 <body>
 <nav>
       <ul>
-          <li><a href="http://localhost/MoviePApp/index.html">Home</a></li>
-          <li><a href="http://localhost/MoviePApp/simpleform.php">Add A Movie</a></li>
-          <li><a href="http://localhost/MoviePApp/viewMovies.php">View All Movies</a></li>
-          <li><a href="http://localhost/MoviePApp/addTimeStamp.php">Add A Time Stamp</a></li>
+          <li><a href="https://ebh1226.github.io/MovieApp/">Home</a></li>
+          <li><a href="https://ebh1226.github.io/MovieApp/simpleform.php">Add A Movie</a></li>
+          <li><a href="https://ebh1226.github.io/MovieApp/viewMovies.php">View All Movies</a></li>
+          <li><a href="https://ebh1226.github.io/MovieApp/addTimeStamp.php">Add A Time Stamp</a></li>
       </ul>
   </nav>
 <div class="container">
